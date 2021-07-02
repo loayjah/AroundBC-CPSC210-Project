@@ -1,0 +1,38 @@
+{"places": [
+  {
+    "address": "",
+    "price": "0",
+    "name": "Grouse Grind hike",
+    "rating": "9",
+    "location": "Vancouver",
+    "category": "individual",
+    "picture": "grouse_grind.jpg"
+  },
+  {
+    "address": "",
+    "price": "0",
+    "name": "Stanley Park",
+    "rating": "6.8",
+    "location": "Vancouver",
+    "category": "individual",
+    "picture": "stanley_park.jpg"
+  },
+  {
+    "address": "",
+    "price": "0",
+    "name": "Granville Island",
+    "rating": "8.5",
+    "location": "Vancouver",
+    "category": "individual",
+    "picture": "granville_island.jpg"
+  },
+  {
+    "address": "",
+    "price": "0",
+    "name": "Vancouver Art Gallery",
+    "rating": "9.4",
+    "location": "Vancouver",
+    "category": "individual",
+    "picture": "art_gallery.jpg"
+  }
+]}

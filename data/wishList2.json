@@ -1,0 +1,47 @@
+{"places": [
+  {
+    "address": "",
+    "price": "0",
+    "name": "Grouse Grind hike",
+    "rating": "9",
+    "location": "Vancouver",
+    "category": "individual",
+    "picture": "grouse_grind.jpg"
+  },
+  {
+    "address": "",
+    "price": "0",
+    "name": "Vancouver Art Gallery",
+    "rating": "9.4",
+    "location": "Vancouver",
+    "category": "individual",
+    "picture": "art_gallery.jpg"
+  },
+  {
+    "address": "",
+    "price": "0",
+    "name": "H. R. Macmillan Space Museum",
+    "rating": "9.6",
+    "location": "Vancouver",
+    "category": "family",
+    "picture": "macmillan_space_museum.jpg"
+  },
+  {
+    "address": "",
+    "price": "0",
+    "name": "Stanley Park",
+    "rating": "6.8",
+    "location": "Vancouver",
+    "category": "family",
+    "picture": "stanley_park.jpg"
+  },
+  {
+    "address": "",
+    "price": "0",
+    "name": "Science World",
+    "rating": "7.8",
+    "location": "Vancouver",
+    "category": "family",
+    "picture": "science_world.jpg"
+  }
+]}

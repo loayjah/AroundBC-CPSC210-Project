@@ -1,0 +1,20 @@
+{"places": [
+    {
+        "address": "",
+        "price": "0",
+        "name": "Science World,Vancouver",
+        "rating": "7.8",
+        "location": "Vancouver",
+        "category": "family",
+        "picture": ""
+    },
+    {
+        "address": "",
+        "price": "0",
+        "name": "Vancouver Aquarium",
+        "rating": "8.9",
+        "location": "Vancouver",
+        "category": "family",
+        "picture": ""
+    }
+]}

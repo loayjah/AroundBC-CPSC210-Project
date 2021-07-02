@@ -1,0 +1,38 @@
+{"places": [
+    {
+        "address": "",
+        "price": "0",
+        "name": "Science World",
+        "rating": "7.8",
+        "location": "Vancouver",
+        "category": "family",
+        "picture": "science_world.jpg"
+    },
+    {
+        "address": "",
+        "price": "0",
+        "name": "H. R. Macmillan Space Museum",
+        "rating": "9.6",
+        "location": "Vancouver",
+        "category": "family",
+        "picture": "macmillan_space_museum.jpg"
+    },
+    {
+        "address": "",
+        "price": "0",
+        "name": "Stanley Park",
+        "rating": "6.8",
+        "location": "Vancouver",
+        "category": "family",
+        "picture": "stanley_park.jpg"
+    },
+    {
+        "address": "",
+        "price": "0",
+        "name": "Vancouver Aquarium",
+        "rating": "8.9",
+        "location": "Vancouver",
+        "category": "family",
+        "picture": "vancouver_aquarium.jpg"
+    }
+]}
