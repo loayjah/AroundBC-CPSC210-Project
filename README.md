@@ -22,7 +22,7 @@ The idea of the application is a tourism guide for residents and visitors of Bri
 - As a user, I want to be able to add a place to the places wishlist
 - As a user, I want to be able to display my wishlist
 - As a user, I want to be able to save my wishlist to file
-- As a user, I want to be able to load my wishlist list from file 
+- As a user, I want to be able to load my wishlist list from file
 - As a user, I want to be able to delete from the wishlist
 - As a user, I want to be able to add a plan to my plans list -- on later update
 - As a user, I want to be able to book for activities -- on later update
